@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pancakes",
+    "ingredients": ["Flour", "Eggs", "Milk", "Sugar", "Baking Powder"],
+    "instructions": "Mix ingredients and cook on a griddle.",
+    "image": "images/sample.jpg"
+  },
+  {
+    "name": "Avocado Toast",
+    "ingredients": ["Bread", "Avocado", "Salt", "Pepper"],
+    "instructions": "Toast the bread and spread mashed avocado on top.",
+    "image": "images/sample.jpg"
+  }
+]
